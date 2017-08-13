@@ -1,0 +1,5 @@
+E:\Unity\MonoDevelop\C4E11\Session7\Exercies1\obj\x86\Debug\Exercies1.csprojResolveAssemblyReference.cache
+E:\Unity\MonoDevelop\C4E11\Session7\Exercies1\bin\Debug\Exercies1.exe
+E:\Unity\MonoDevelop\C4E11\Session7\Exercies1\bin\Debug\Exercies1.pdb
+E:\Unity\MonoDevelop\C4E11\Session7\Exercies1\obj\x86\Debug\Exercies1.exe
+E:\Unity\MonoDevelop\C4E11\Session7\Exercies1\obj\x86\Debug\Exercies1.pdb
